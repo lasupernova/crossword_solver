@@ -1,6 +1,5 @@
 # crossword_solver
-ML algorithm to solve crossword puzzles 
-<br><br>
+AI solving crossword puzzles <br><br>
 crossword.py - creates all necessary objects <br>
 generate.py - contains all the necessary logic for the crossword solver
 <br><br>
